@@ -25,6 +25,7 @@ Caméléon is a maze puzzle game in 100 levels. The App uses:
 - Local device storage to save your progress  
 - The App Store (StoreKit) for the optional "Remove ads" purchase  
 - Google AdMob, to show ads (see the [Privacy Policy](../privacypolicy/))  
+- Google Analytics for Firebase, for anonymous usage statistics (see the [Privacy Policy](../privacypolicy/))  
 
 <br>
 

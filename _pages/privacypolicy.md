@@ -19,7 +19,21 @@ Your progress (the levels you completed and the stars you earned) and your setti
 
 <br>
 
-## 2.0 Advertising
+## 2.0 Anonymous Usage Statistics
+
+To understand how the game is played and improve it, Caméléon uses **Google Analytics for Firebase**. It records:
+
+- When a level is started, completed (with its stars and moves) or lost (and what caused it)  
+- When a level is left before it is completed  
+- When a pack is unlocked and when the game is completed  
+- When an ad is shown between two levels  
+- Standard app events, such as app opens and sessions  
+
+These events are tied to a random identifier generated for this installation of the App, not to your name, email or Apple Account. Google derives an approximate country or region from a masked IP address. These statistics do not use the advertising identifier (IDFA). Google's handling of this data is described in [Google's Privacy Policy](https://policies.google.com/privacy).
+
+<br>
+
+## 3.0 Advertising
 
 Caméléon is free and shows ads through **Google AdMob**: a full-screen ad between two levels. Buying "Remove ads" removes them.
 
@@ -31,40 +45,39 @@ Google's handling of this data is described in [Google's Privacy Policy](https:/
 
 <br>
 
-## 3.0 What We Don't Do
+## 4.0 What We Don't Do
 
 - ❌ We don't collect your name, email or contacts  
-- ❌ We don't collect usage statistics  
 - ❌ We don't track you across other apps or websites without your permission  
 - ❌ We don't sell any data  
 - ❌ We don't require an account  
 
 <br>
 
-## 4.0 In-App Purchase
+## 5.0 In-App Purchase
 
 "Remove ads" is a one-time purchase processed entirely by Apple through the App Store. We never receive your payment information. Apple's handling of purchases is covered by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
 <br>
 
-## 5.0 Other Permissions
+## 6.0 Other Permissions
 
 Caméléon does not request access to your microphone, location, photos, contacts, calendar or camera.
 
 <br>
 
-## 6.0 Children's Privacy
+## 7.0 Children's Privacy
 
-Caméléon does not knowingly collect personal information from children under 13. The App contains ads.
+Caméléon does not knowingly collect personal information from children under 13. The anonymous usage statistics described above are not tied to anyone's identity. The App contains ads.
 
 <br>
 
-## 7.0 Changes to This Policy
+## 8.0 Changes to This Policy
 
 If this policy changes, the updated version will be posted on this page with a new date.
 
 <br>
 
-## 8.0 Contact
+## 9.0 Contact
 
 Questions about this policy? Contact us at [sixtyedge@gmail.com](mailto:sixtyedge@gmail.com).
