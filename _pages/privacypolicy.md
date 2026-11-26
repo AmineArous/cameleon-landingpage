@@ -26,7 +26,8 @@ To understand how the game is played and improve it, Caméléon uses **Google An
 - When a level is started, completed (with its stars and moves) or lost (and what caused it)  
 - When a level is left before it is completed  
 - When a pack is unlocked and when the game is completed  
-- When an ad is shown between two levels  
+- When an ad is shown between two levels, or a rewarded ad is watched  
+- When gems are earned or spent, and when the shop, a level solution or a second chance is used  
 - Standard app events, such as app opens and sessions  
 
 These events are tied to a random identifier generated for this installation of the App, not to your name, email or Apple Account. Google derives an approximate country or region from a masked IP address. These statistics do not use the advertising identifier (IDFA). Google's handling of this data is described in [Google's Privacy Policy](https://policies.google.com/privacy).
