@@ -1,0 +1,114 @@
+#page title
+page_title                                : "Caméléon: Color Maze"
+
+# App Info
+ios_app_id                                :
+
+appstore_link                             :
+playstore_link                            :
+presskit_download_link                    :
+
+app_icon                                  : assets/appicon.png
+app_name                                  : "Caméléon"
+app_price                                 : Free
+app_description                           : "Swipe to slide the chameleon through the maze. Paint yourself in a puddle to open the doors of your color, collect the stars and find the way out."
+
+enable_smart_app_banner                   : false
+
+
+
+# Information About Yourself
+your_name                                 : SixtyEdge
+your_link                                 : 
+your_city                                 : Paris
+email_address                             : sixtyedge@gmail.com
+facebook_username                         :
+instagram_username                        :
+twitter_username                          :
+github_username                           :
+youtube_username                          :
+
+
+
+# Feature List
+features                                  :
+
+  - title                                 : Slide to the Exit
+    description                           : One swipe, and the chameleon slides until something stops it. Plan every move.
+    fontawesome_icon_name                 : arrows-alt
+
+  - title                                 : Change Color, Open the Way
+    description                           : Step in a puddle to take its color. Only the doors of your color let you through.
+    fontawesome_icon_name                 : palette
+
+  - title                                 : 100 Levels in 5 Packs
+    description                           : From a neon jungle to a volcano, each pack has its arcade look and its new pieces.
+    fontawesome_icon_name                 : layer-group
+
+  - title                                 : Traps That Move
+    description                           : Skulls, fireballs, snakes, spotlights, vines and a dragon, all in real time.
+    fontawesome_icon_name                 : dragon
+
+  - title                                 : Three Stars per Level
+    description                           : Collect every star on your way, then go for the best score.
+    fontawesome_icon_name                 : star
+
+  - title                                 : Free to Play
+    description                           : No account. Remove the ads with a one-time purchase.
+    fontawesome_icon_name                 : unlock
+
+
+
+# Theme Settings
+topbar_color                              : "#0E0A1F"
+topbar_transparency                       : 0.95
+topbar_title_color                        : "#ffffff"
+
+cover_image                               : assets/headerimage.png
+cover_overlay_color                       : "#0E0A1F"
+cover_overlay_transparency                : 0.6
+
+device_color                              : black
+
+body_background_color                     : "#ffffff"
+
+link_color                                : "#5B50C9"
+
+app_title_color                           : "#ffffff"
+app_price_color                           : "#A4EE97"
+app_description_color                     : "#e2e8f0"
+
+feature_title_color                       : "#1B1556"
+feature_text_color                        : "#64748b"
+
+feature_icons_foreground_color            : "#3FC14D"
+feature_icons_background_color            : "#E3F8DF"
+
+social_icons_foreground_color             : "#64748b"
+social_icons_background_color             : "#f1f5f9"
+
+footer_text_color                         : "#94a3b8"
+
+
+
+####################################################
+### Jekyll Configuration. No need to touch this. ###
+####################################################
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Exclude these files from your production _site
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Markdown rendering
+markdown: kramdown
